@@ -36,3 +36,19 @@ const res = undefined
 const data = null
 //null is used to declare that a value is null
 
+const person = {
+    'firstName':'Hadi',
+    'lastName': 'Hassan',
+    'age': 30
+}
+
+console.log(person.firstName)
+
+
+const oddNumbers = [1, 3, 5, 7, 9]
+console.log(oddNumbers[0])
+
+let a = 10
+a = 'Hadi'
+a = true
+console.log(a)

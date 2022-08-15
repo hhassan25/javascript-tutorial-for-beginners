@@ -1,0 +1,8 @@
+Operators
+  An operator is a special symbol used to porform operations on values and variables.
+	-Assignment Operators
+	-Arithmetic Operators
+	-Comparison Operators
+	-Logical Operators
+	-String Operators
+	-Other Operators

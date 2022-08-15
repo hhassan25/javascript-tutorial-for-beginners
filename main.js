@@ -119,9 +119,57 @@ console.log(Boolean(10))// null undefined '' Nan
 //end of session 5
 */
 
-const var1 = 10
+/*const var1 = 10
 const var2 = '10'
 console.log(var1 == var2)
 console.log(var1 === var2)
+*/
+
+//end of session 6
+
+const num = -5
+
+if(num > 0){
+    console.log('number is positive')
+}
+
+else {
+    console.log('number is negative')
+}
+
+
+const n = 9
+if(n > 0){
+    console.log('positive')
+}
+else if(n < 0){
+    console.log('negative')
+}
+else{
+    console.log('number is zero')
+}
+
+
+const color = 'black'
+
+switch(color){
+    case 'red':
+         console.log('color is red')
+    break
+
+    case 'blue':
+         console.log('color is blue')
+    break
+
+    case 'green':
+        console.log('color is green')
+    break
+
+    default:
+        console.log('not a valid color')
+}
+
+//end of session 7
+
 
 

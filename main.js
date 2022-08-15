@@ -173,7 +173,7 @@ switch(color){
 
 
 // for loop example
-for(let i = 1; i <= 5; i++){
+/*for(let i = 1; i <= 5; i++){
     console.log('iteration number ' + i)
 }
 
@@ -198,6 +198,38 @@ do{
 const numArray = [1, 2, 3, 4, 5]
 for(const num of numArray){
     console.log('Iteration number ' + num)
+}*/
+
+//end of session 8
+
+function greet(){
+    console.log('good morning dear')
 }
 
+greet()
+//=====
+greet()
+greet()
 
+function greet1(username){
+    console.log('good morning dear ' + username)
+}
+
+greet1('hadi')
+
+
+
+function add(a, b){
+    return a + b
+}
+const sum = add(5,10)
+console.log(sum)
+
+
+
+
+
+const arrowSum = (a,b) =>  a + b
+
+const sumA = arrowSum(24,43)
+console.log(sumA)

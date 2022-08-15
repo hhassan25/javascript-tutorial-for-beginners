@@ -1,0 +1,39 @@
+Looping Code:
+
+	-for loop
+	-while loop
+	-Do..while loop
+	-for..of loop
+
+
+-For Loop:
+	for(initializer; conidition; final-expression){
+		//code to run
+	}
+
+
+
+-While loop:
+	initializer
+	while(conidition){
+		//code to run
+		
+		final-expression
+	}
+
+
+-Do..While loop:
+	initializer
+	do{
+		//code to run
+		final-expression
+	} 	while(conidition)
+
+
+
+-For..of loop:
+	for(const item of array){
+		//code to run
+	}
+
+	

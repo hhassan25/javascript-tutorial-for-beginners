@@ -127,7 +127,7 @@ console.log(var1 === var2)
 
 //end of session 6
 
-const num = -5
+/*const num = -5
 
 if(num > 0){
     console.log('number is positive')
@@ -168,8 +168,36 @@ switch(color){
     default:
         console.log('not a valid color')
 }
-
+*/
 //end of session 7
 
+
+// for loop example
+for(let i = 1; i <= 5; i++){
+    console.log('iteration number ' + i)
+}
+
+
+//while loop example
+let a = 1
+while(a < 5){
+    console.log('iteration a : ' + a)
+    a++
+}
+
+
+//Do..While loop
+let x = 1
+do{
+    console.log('iteration x : ' + x)
+    x++
+} while(x<5)
+
+
+//for..of loop
+const numArray = [1, 2, 3, 4, 5]
+for(const num of numArray){
+    console.log('Iteration number ' + num)
+}
 
 

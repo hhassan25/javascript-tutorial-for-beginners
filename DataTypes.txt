@@ -1,0 +1,10 @@
+Primitive:
+	-String type
+	-number type
+	-boolean type
+	-undefined type
+	-null type
+	-BigInt type
+	-Symbol type
+Non Primitive:
+	-objects

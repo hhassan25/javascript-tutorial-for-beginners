@@ -1,4 +1,4 @@
-console.log('hello from main.js')
+/*console.log('hello from main.js')
 
 
 //variables
@@ -13,4 +13,26 @@ console.log(salary)
 
 let sum = 0
 sum = 6
-console.log(sum)
+console.log(sum)*/
+
+//Data types
+const name = 'hadi'
+const language = "javascript"
+const course = `javasript course`
+
+const total = 0
+const PI = 3.14
+
+const isPrimaryNumber = true
+const isNewUser = false
+
+let result
+console.log(result)
+//run console in the borwser or in the node terminal
+
+const res = undefined
+//undefined us used to declare a value that is not yet defined
+
+const data = null
+//null is used to declare that a value is null
+

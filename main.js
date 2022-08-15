@@ -14,3 +14,4 @@ console.log(salary)
 let sum = 0
 sum = 6
 console.log(sum)
+//comment

@@ -1,0 +1,5 @@
+Type Conversions
+	-Implicit Conversion: aslo known as type coercion where javascript itself will automatically convert the type.
+	
+
+	-Explicit Conversion: where you manually convert the type

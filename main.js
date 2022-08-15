@@ -202,6 +202,9 @@ for(const num of numArray){
 
 //end of session 8
 
+
+
+/*
 function greet(){
     console.log('good morning dear')
 }
@@ -233,3 +236,32 @@ const arrowSum = (a,b) =>  a + b
 
 const sumA = arrowSum(24,43)
 console.log(sumA)
+*/
+
+//end of session 9
+
+
+//getting started with scope
+const myNum = 100
+
+
+if(true){
+    const myName = 'hadi'
+    console.log(myName)
+    console.log(myNum)
+}
+
+//cannot be accessed outside the block
+
+//======================
+
+function testFn(){
+    const myName = 'Superman'
+    console.log(myName)
+    console.log(myNum)
+}
+testFn()
+
+//cannot be accessed outside the block
+
+

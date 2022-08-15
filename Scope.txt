@@ -1,0 +1,6 @@
+Scope:
+	Scope basically determines the accessibility or visiblity of variables
+	
+	-Block Scope
+	-Function Scope
+	-Global Scope

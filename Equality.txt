@@ -1,0 +1,4 @@
+Equality:
+
+ ==(allows coercion)
+ ===(does not allow coercion)

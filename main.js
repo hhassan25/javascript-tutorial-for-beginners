@@ -89,7 +89,7 @@ console.log(isEven)*/
 
 
 //here getting started with implicit conversion
-console.log(2 + '3')
+/*console.log(2 + '3')
 console.log(true + '3')
 console.log('4' - '2')
 console.log('hadi' - 'hassan')
@@ -116,3 +116,12 @@ console.log(String(undefined))
 
 console.log((500).toString())
 console.log(Boolean(10))// null undefined '' Nan
+//end of session 5
+*/
+
+const var1 = 10
+const var2 = '10'
+console.log(var1 == var2)
+console.log(var1 === var2)
+
+

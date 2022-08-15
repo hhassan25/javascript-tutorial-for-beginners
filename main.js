@@ -16,7 +16,7 @@ sum = 6
 console.log(sum)*/
 
 //Data types
-const name = 'hadi'
+/*const name = 'hadi'
 const language = "javascript"
 const course = `javasript course`
 
@@ -51,4 +51,4 @@ console.log(oddNumbers[0])
 let a = 10
 a = 'Hadi'
 a = true
-console.log(a)
+console.log(a)*/
